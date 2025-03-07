@@ -20,7 +20,7 @@ The project analyzes Adidas sales data using Python libraries. The analysis aims
 
 ## Dataset
 The dataset is taken from data.world
-Adidas US Sales Datasets: https://data.world/stellabigail/adidas-us-sales-datasets
+##Adidas US Sales Datasets: https://data.world/stellabigail/adidas-us-sales-datasets
 
 
 

@@ -18,6 +18,11 @@ The project analyzes Adidas sales data using Python libraries. The analysis aims
 - Matplotlib, Seaborn, Plotly
 - Google Colab Notebook
 
+## Dataset
+The dataset is taken from data.world
+Adidas US Sales Datasets: https://data.world/stellabigail/adidas-us-sales-datasets
+
+
 
 
 

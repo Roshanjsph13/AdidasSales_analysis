@@ -11,7 +11,8 @@ The project analyzes Adidas sales data using Python libraries. The analysis aims
 - Visualizations using Matplotlib, Seaborn, and Plotly
 - Sales Forecasting
 - Price optimization
-- RFM analysis
+- Market Segmentation
+- RFM Analysis
 
 ## Technologies Used
 - Python
